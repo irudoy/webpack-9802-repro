@@ -1,0 +1,13 @@
+{
+  "name": "webpack-9802-repro",
+  "version": "1.0.0",
+  "author": "Ivan Rudoy <rudoy@farpost.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.5.2",
+    "webpack": "^5.0.0-beta.15"
+  },
+  "scripts": {
+    "start": "jest"
+  }
+}
